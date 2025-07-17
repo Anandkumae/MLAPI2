@@ -11,7 +11,7 @@ This repository contains a deployed Machine Learning API that predicts customer 
 
 ## 🚀 Project Demo
 
-🔗 **Live API Endpoint**: [https://your-render-api-url.onrender.com]((https://mlapi2-1.onrender.com))
+🔗 **Live API Endpoint**: [[https://your-render-api-url.onrender.com](https://mlapi2-1.onrender.com)]
 
 📮 **Try on Postman**: Use the `/predict` endpoint with sample JSON input:
 ```json
